@@ -18,6 +18,7 @@
   "homepage": "https://github.com/emortong/academia-array-iterators#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "jshint": "^2.10.2",
     "mocha": "^6.1.4"
   }
 }
